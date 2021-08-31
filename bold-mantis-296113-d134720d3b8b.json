@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bold-mantis-296113",
+  "private_key_id": "d134720d3b8b917b2cf63f5fb9fd5ff979541ce7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFlbjuwbkXOfOW\ng/9NNv0OaLS5AzWwi5ER71bRgATvXimh2es1nfYli2vIR5sJbDcz1BP4qPewIXLC\njOxIrRuVF5719BA3/GD4olNP6QopTBM6GaQOgzmTkCAfJuBuZMX3l82kTFUy2Zw5\nW5jwJGKWO5v3+VfGJm9rNKJUsDFcU8ciqIQABnOl/TGmbwUJsrXDtcCdLE9xDT4y\nEGyfsmI/1NtOvzqjRJrsNHhog2032TBh160ejAamUXN8TtCq4pzMRYVIGSoGLbqH\nvrxNqaIiXGcGRke4mmMCOD6KnYtoLgE9z9KDT8+X0lFaqdpopXW6kkL3+kEysuQD\nZr1hDafrAgMBAAECggEAMVoL5qsBodEKTEqtDqrQ+3PgzCOGmhHKSvoGq+53jRhu\neqxVST+q10bjRZPJIEnk4e+zi1UdBOPd58VOUXrXnF5ZiKKNGIbT69aTy65wKM+F\nL+pupWdWjsqdk1phDYHjRswmg8bDMx/SmysLYNQdwduiwgYITAiWpObxMwkNUzty\n8P6YbXXKEJnyJ1iKo6WVp1D87KMdlL7Ybfv0r3U87mz3kj8s+qOzd0ydznMCHFT2\nh3JsABeUG3PlB8SoYb9e5iI+6LNBM+JpKVoQp2ysdRkh/9M0mFzQqCLkAQpIJ8Al\nIy/pMoDEINJCuD58t6pAYLwJtsEC1gdQdOtmOZh7SQKBgQD3cFBLo5t8962W7zhG\nmtAQDGLCuXYpEl4J/sxiNDfMPmhRRK5g6e62CE8luFes78zxzGDw15HS8dKI5K84\n/mpqROD5TDSOBDLeNO4JIZgwQCd5Gjd+eNU86tVZJeCEDDIjbSmC8KUaGS+NFgCt\n6ib6KQncRe8nGSU+PfbM6vsMmQKBgQDMa9QYvQf8J/0hAnkDgcgIfBkByhgvtVsi\nc+0mDhW7mUlaFFgw+9g+ABVhJy904Zq9bI+qIs+xRtIPf1VWQAaeNcV5xfu9owrl\nxefeZec8yxdU04ppk9KNDOhVEFDCDCaT8JVaMWrSfttC51Uzn4AVwoXWUip62VB9\n+XxOr3DHIwKBgQDQ5ODk+pqqRe8nHY5FDS3aXpqCClDXG8qIZbPmtG7m30jyUylk\naBo/U4R+M8LRHSHIgOLWcSeLDtzO9UF4vFDapovH663yt1i6f7T1wIbbNU4dzyRK\ngXiElTzIplGFKUaq4d3JzZ+VCO48DfdE3AlL6JmKfQAJ4hCvG2DgXwDTAQKBgD1O\nrXqJ3sYyHAl1W2PA3YQl674MpTpRsrZffCUonj34F/arGVP/g/f8QG01ulbcfnMH\nBwMok4+AROme77IBW7rBN6twxDI4nsEQnJynhTVHV4T6OI23ZrMkxt0UGpRH3p4J\nzlERdw8QOqQTCwuDb3+XKlp/o/vaBvjxBOX4WeNvAoGAeJ+UU0BJ2pCTsHL2QZ0C\nOpxZ+Ng3XnkpslmJNY8a1KWZD11IU0X79Nws8DCQQHlEBlo3N5+eYvsKRPDQ4fEs\nYY0BQ6QSEhr9TaGKi6Qy3JScaSzLPH0ylFHj5YxlgsCcSec6/Sfk1sjmXy29vM8g\nrPvhpove06/7OCOxGclrhtE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gtmapiautomationsaksh-729@bold-mantis-296113.iam.gserviceaccount.com",
+  "client_id": "115325349267710986016",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gtmapiautomationsaksh-729%40bold-mantis-296113.iam.gserviceaccount.com"
+}
